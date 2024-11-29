@@ -1,4 +1,4 @@
-```markdown
+markdown
 If after installing nvm and node by running:
 
 ```
@@ -46,6 +46,5 @@ To fix this, follow these instructions:
     ```
 9. Type in your password.
 10. Enjoy!
-```
 
 This should render properly in any Markdown-supported platform. Let me know if you'd like any more tweaks!
