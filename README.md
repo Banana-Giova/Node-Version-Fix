@@ -1,4 +1,3 @@
-markdown
 If after installing nvm and node by running:
 
 ```
