@@ -1,5 +1,6 @@
-Node Version Fix
+# Node Version Fix
 
+This script was made to fix a specific bug that can occur while trying to install NodeJS on your machine.
 If after installing nvm and node by running:
 
 ```
@@ -19,6 +20,9 @@ returns an old version of node when you close the terminal, and when you re-run
 ```
 
 it returns a version that's already installed, it means node is bugged.  
+To resolve this you can either run the script uploaded in this repo or follow the manual instructions down below.
+
+## Manual Instructions
 To fix this, follow these instructions:
 
 1. Close every currently open terminal.
@@ -47,5 +51,3 @@ To fix this, follow these instructions:
     ```
 9. Type in your password.
 10. Enjoy!
-
-This should render properly in any Markdown-supported platform. Let me know if you'd like any more tweaks!
